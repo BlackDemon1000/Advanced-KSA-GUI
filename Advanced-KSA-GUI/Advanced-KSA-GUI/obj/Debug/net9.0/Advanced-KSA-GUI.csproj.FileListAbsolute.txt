@@ -1,0 +1,5 @@
+C:\Users\CB110\Robotik\Advanced-KSA-GUI\Advanced-KSA-GUI\Advanced-KSA-GUI\obj\Debug\net9.0\Advanced-KSA-GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CB110\Robotik\Advanced-KSA-GUI\Advanced-KSA-GUI\Advanced-KSA-GUI\obj\Debug\net9.0\Advanced-KSA-GUI.AssemblyInfoInputs.cache
+C:\Users\CB110\Robotik\Advanced-KSA-GUI\Advanced-KSA-GUI\Advanced-KSA-GUI\obj\Debug\net9.0\Advanced-KSA-GUI.AssemblyInfo.cs
+C:\Users\CB110\Robotik\Advanced-KSA-GUI\Advanced-KSA-GUI\Advanced-KSA-GUI\obj\Debug\net9.0\Advanced-KSA-GUI.csproj.CoreCompileInputs.cache
+C:\Users\CB110\Robotik\Advanced-KSA-GUI\Advanced-KSA-GUI\Advanced-KSA-GUI\obj\Debug\net9.0\Advanced-KSA-GUI.sourcelink.json

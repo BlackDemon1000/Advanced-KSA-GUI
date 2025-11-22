@@ -1,0 +1,731 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Advanced-KSA-GUI/1.0.0": {
+        "dependencies": {
+          "0Harmony": "2.4.1.0",
+          "Brutal.Core.Collections": "0.3.1.1",
+          "Brutal.Core.Common": "0.3.1.1",
+          "Brutal.Core.Logging": "0.3.1.1",
+          "Brutal.Core.Maths": "0.3.1.1",
+          "Brutal.Core.Memory": "0.3.1.1",
+          "Brutal.Core.Numerics": "0.3.1.1",
+          "Brutal.Core.Package": "0.3.1.1",
+          "Brutal.Core.Strings": "0.3.1.1",
+          "Brutal.Fmod": "0.0.0.0",
+          "Brutal.Framework": "25.11.0.459",
+          "Brutal.Glfw": "0.0.0.0",
+          "Brutal.Gli": "0.0.0.0",
+          "Brutal.Gli.Texture": "0.0.0.0",
+          "Brutal.GltfApi": "0.0.0.0",
+          "Brutal.ImGui.Abstractions": "0.0.0.0",
+          "Brutal.ImGui": "0.0.0.0",
+          "Brutal.ImGui.Extensions": "0.0.0.0",
+          "Brutal.Ktx": "0.0.0.0",
+          "Brutal.Ktx.Texture": "0.0.0.0",
+          "Brutal.Native": "25.11.0.0",
+          "Brutal.OpenGl": "0.0.0.0",
+          "Brutal.RakNet": "0.0.0.0",
+          "Brutal.ShaderCompiler": "0.0.0.0",
+          "Brutal.Stb": "0.0.0.0",
+          "Brutal.Stb.Texture": "0.0.0.0",
+          "Brutal.Texture.Abstractions": "0.0.0.0",
+          "Brutal.Texture": "0.0.0.0",
+          "Brutal.Vulkan.Abstractions": "0.0.0.0",
+          "Brutal.Vulkan": "0.0.0.0",
+          "Google.Protobuf": "3.33.0.0",
+          "Grpc.Core.Api": "2.0.0.0",
+          "Grpc.Net.Client": "2.0.0.0",
+          "Grpc.Net.Common": "2.0.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0.0",
+          "StarMap.API": "1.0.0.0",
+          "StarMap.Core": "1.0.0.0",
+          "StarMap": "1.0.0.0",
+          "StarMap.Index.API": "0.0.4.0",
+          "StarMap.Types": "1.0.0.0",
+          "StarMapLoader": "1.0.0.0"
+        },
+        "runtime": {
+          "Advanced-KSA-GUI.dll": {}
+        }
+      },
+      "0Harmony/2.4.1.0": {
+        "runtime": {
+          "0Harmony.dll": {
+            "assemblyVersion": "2.4.1.0",
+            "fileVersion": "2.4.1.0"
+          }
+        }
+      },
+      "Brutal.Core.Collections/0.3.1.1": {
+        "runtime": {
+          "Brutal.Core.Collections.dll": {
+            "assemblyVersion": "0.3.1.1",
+            "fileVersion": "0.3.1.1"
+          }
+        }
+      },
+      "Brutal.Core.Common/0.3.1.1": {
+        "runtime": {
+          "Brutal.Core.Common.dll": {
+            "assemblyVersion": "0.3.1.1",
+            "fileVersion": "0.3.1.1"
+          }
+        }
+      },
+      "Brutal.Core.Logging/0.3.1.1": {
+        "runtime": {
+          "Brutal.Core.Logging.dll": {
+            "assemblyVersion": "0.3.1.1",
+            "fileVersion": "0.3.1.1"
+          }
+        }
+      },
+      "Brutal.Core.Maths/0.3.1.1": {
+        "runtime": {
+          "Brutal.Core.Maths.dll": {
+            "assemblyVersion": "0.3.1.1",
+            "fileVersion": "0.3.1.1"
+          }
+        }
+      },
+      "Brutal.Core.Memory/0.3.1.1": {
+        "runtime": {
+          "Brutal.Core.Memory.dll": {
+            "assemblyVersion": "0.3.1.1",
+            "fileVersion": "0.3.1.1"
+          }
+        }
+      },
+      "Brutal.Core.Numerics/0.3.1.1": {
+        "runtime": {
+          "Brutal.Core.Numerics.dll": {
+            "assemblyVersion": "0.3.1.1",
+            "fileVersion": "0.3.1.1"
+          }
+        }
+      },
+      "Brutal.Core.Package/0.3.1.1": {
+        "runtime": {
+          "Brutal.Core.Package.dll": {
+            "assemblyVersion": "0.3.1.1",
+            "fileVersion": "0.3.1.1"
+          }
+        }
+      },
+      "Brutal.Core.Strings/0.3.1.1": {
+        "runtime": {
+          "Brutal.Core.Strings.dll": {
+            "assemblyVersion": "0.3.1.1",
+            "fileVersion": "0.3.1.1"
+          }
+        }
+      },
+      "Brutal.Fmod/0.0.0.0": {
+        "runtime": {
+          "Brutal.Fmod.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.2.0.0"
+          }
+        }
+      },
+      "Brutal.Framework/25.11.0.459": {
+        "runtime": {
+          "Brutal.Framework.dll": {
+            "assemblyVersion": "25.11.0.459",
+            "fileVersion": "25.11.0.459"
+          }
+        }
+      },
+      "Brutal.Glfw/0.0.0.0": {
+        "runtime": {
+          "Brutal.Glfw.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.2.1.0"
+          }
+        }
+      },
+      "Brutal.Gli/0.0.0.0": {
+        "runtime": {
+          "Brutal.Gli.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.3.4.0"
+          }
+        }
+      },
+      "Brutal.Gli.Texture/0.0.0.0": {
+        "runtime": {
+          "Brutal.Gli.Texture.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.3.4.0"
+          }
+        }
+      },
+      "Brutal.GltfApi/0.0.0.0": {
+        "runtime": {
+          "Brutal.GltfApi.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Brutal.ImGui.Abstractions/0.0.0.0": {
+        "runtime": {
+          "Brutal.ImGui.Abstractions.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.2.3.0"
+          }
+        }
+      },
+      "Brutal.ImGui/0.0.0.0": {
+        "runtime": {
+          "Brutal.ImGui.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.2.3.0"
+          }
+        }
+      },
+      "Brutal.ImGui.Extensions/0.0.0.0": {
+        "runtime": {
+          "Brutal.ImGui.Extensions.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.2.3.0"
+          }
+        }
+      },
+      "Brutal.Ktx/0.0.0.0": {
+        "runtime": {
+          "Brutal.Ktx.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.1.3.0"
+          }
+        }
+      },
+      "Brutal.Ktx.Texture/0.0.0.0": {
+        "runtime": {
+          "Brutal.Ktx.Texture.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.1.3.0"
+          }
+        }
+      },
+      "Brutal.Native/25.11.0.0": {
+        "runtime": {
+          "Brutal.Native.dll": {
+            "assemblyVersion": "25.11.0.0",
+            "fileVersion": "25.11.0.0"
+          }
+        }
+      },
+      "Brutal.OpenGl/0.0.0.0": {
+        "runtime": {
+          "Brutal.OpenGl.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.2.0.0"
+          }
+        }
+      },
+      "Brutal.RakNet/0.0.0.0": {
+        "runtime": {
+          "Brutal.RakNet.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.2.0.0"
+          }
+        }
+      },
+      "Brutal.ShaderCompiler/0.0.0.0": {
+        "runtime": {
+          "Brutal.ShaderCompiler.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.2.1.0"
+          }
+        }
+      },
+      "Brutal.Stb/0.0.0.0": {
+        "runtime": {
+          "Brutal.Stb.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.2.2.0"
+          }
+        }
+      },
+      "Brutal.Stb.Texture/0.0.0.0": {
+        "runtime": {
+          "Brutal.Stb.Texture.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.2.2.0"
+          }
+        }
+      },
+      "Brutal.Texture.Abstractions/0.0.0.0": {
+        "runtime": {
+          "Brutal.Texture.Abstractions.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.2.3.0"
+          }
+        }
+      },
+      "Brutal.Texture/0.0.0.0": {
+        "runtime": {
+          "Brutal.Texture.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.2.3.0"
+          }
+        }
+      },
+      "Brutal.Vulkan.Abstractions/0.0.0.0": {
+        "runtime": {
+          "Brutal.Vulkan.Abstractions.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.1.1.0"
+          }
+        }
+      },
+      "Brutal.Vulkan/0.0.0.0": {
+        "runtime": {
+          "Brutal.Vulkan.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.1.1.0"
+          }
+        }
+      },
+      "Google.Protobuf/3.33.0.0": {
+        "runtime": {
+          "Google.Protobuf.dll": {
+            "assemblyVersion": "3.33.0.0",
+            "fileVersion": "3.33.0.0"
+          }
+        }
+      },
+      "Grpc.Core.Api/2.0.0.0": {
+        "runtime": {
+          "Grpc.Core.Api.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.71.0.0"
+          }
+        }
+      },
+      "Grpc.Net.Client/2.0.0.0": {
+        "runtime": {
+          "Grpc.Net.Client.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.71.0.0"
+          }
+        }
+      },
+      "Grpc.Net.Common/2.0.0.0": {
+        "runtime": {
+          "Grpc.Net.Common.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.71.0.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/6.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "StarMap.API/1.0.0.0": {
+        "runtime": {
+          "StarMap.API.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "StarMap.Core/1.0.0.0": {
+        "runtime": {
+          "StarMap.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "StarMap/1.0.0.0": {
+        "runtime": {
+          "StarMap.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "StarMap.Index.API/0.0.4.0": {
+        "runtime": {
+          "StarMap.Index.API.dll": {
+            "assemblyVersion": "0.0.4.0",
+            "fileVersion": "0.0.4.0"
+          }
+        }
+      },
+      "StarMap.Types/1.0.0.0": {
+        "runtime": {
+          "StarMap.Types.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "StarMapLoader/1.0.0.0": {
+        "runtime": {
+          "StarMapLoader.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CommunityToolkit.HighPerformance/8.4.0.0": {
+        "runtime": {
+          "CommunityToolkit.HighPerformance.dll": {
+            "assemblyVersion": "8.4.0.0",
+            "fileVersion": "8.4.0.1"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Logging.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.825.36511"
+          }
+        }
+      },
+      "System.CommandLine/2.0.0.0": {
+        "runtime": {
+          "System.CommandLine.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.22.27201"
+          }
+        },
+        "resources": {
+          "cs/System.CommandLine.resources.dll": {
+            "locale": "cs"
+          },
+          "de/System.CommandLine.resources.dll": {
+            "locale": "de"
+          },
+          "es/System.CommandLine.resources.dll": {
+            "locale": "es"
+          },
+          "fr/System.CommandLine.resources.dll": {
+            "locale": "fr"
+          },
+          "it/System.CommandLine.resources.dll": {
+            "locale": "it"
+          },
+          "ja/System.CommandLine.resources.dll": {
+            "locale": "ja"
+          },
+          "ko/System.CommandLine.resources.dll": {
+            "locale": "ko"
+          },
+          "pl/System.CommandLine.resources.dll": {
+            "locale": "pl"
+          },
+          "pt-BR/System.CommandLine.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "ru/System.CommandLine.resources.dll": {
+            "locale": "ru"
+          },
+          "tr/System.CommandLine.resources.dll": {
+            "locale": "tr"
+          },
+          "zh-Hans/System.CommandLine.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "zh-Hant/System.CommandLine.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.825.36511"
+          }
+        }
+      },
+      "Microsoft.Extensions.Options/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Options.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.825.36511"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.825.36511"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.825.36511"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Advanced-KSA-GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "0Harmony/2.4.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.Core.Collections/0.3.1.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.Core.Common/0.3.1.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.Core.Logging/0.3.1.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.Core.Maths/0.3.1.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.Core.Memory/0.3.1.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.Core.Numerics/0.3.1.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.Core.Package/0.3.1.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.Core.Strings/0.3.1.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.Fmod/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.Framework/25.11.0.459": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.Glfw/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.Gli/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.Gli.Texture/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.GltfApi/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.ImGui.Abstractions/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.ImGui/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.ImGui.Extensions/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.Ktx/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.Ktx.Texture/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.Native/25.11.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.OpenGl/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.RakNet/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.ShaderCompiler/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.Stb/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.Stb.Texture/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.Texture.Abstractions/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.Texture/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.Vulkan.Abstractions/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brutal.Vulkan/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Protobuf/3.33.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Grpc.Core.Api/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Grpc.Net.Client/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Grpc.Net.Common/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Logging.Abstractions/6.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StarMap.API/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StarMap.Core/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StarMap/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StarMap.Index.API/0.0.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StarMap.Types/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StarMapLoader/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommunityToolkit.HighPerformance/8.4.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Logging/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.CommandLine/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Options/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Primitives/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

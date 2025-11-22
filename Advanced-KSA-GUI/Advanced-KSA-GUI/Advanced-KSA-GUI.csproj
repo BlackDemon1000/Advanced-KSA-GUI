@@ -8,6 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\StarMap\0Harmony.dll</HintPath>
+    </Reference>
     <Reference Include="Brutal.Core.Collections">
       <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Core.Collections.dll</HintPath>
     </Reference>
@@ -95,8 +98,38 @@
     <Reference Include="Brutal.Vulkan.Abstractions">
       <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Vulkan.Abstractions.dll</HintPath>
     </Reference>
+    <Reference Include="Google.Protobuf">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\StarMap\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="Grpc.Core.Api">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\StarMap\Grpc.Core.Api.dll</HintPath>
+    </Reference>
+    <Reference Include="Grpc.Net.Client">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\StarMap\Grpc.Net.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Grpc.Net.Common">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\StarMap\Grpc.Net.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\StarMap\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
     <Reference Include="StarMap">
       <HintPath>..\..\..\..\..\..\Program Files (x86)\StarMap\StarMap.dll</HintPath>
+    </Reference>
+    <Reference Include="StarMap.API">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\StarMap\StarMap.API.dll</HintPath>
+    </Reference>
+    <Reference Include="StarMap.Core">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\StarMap\StarMap.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="StarMap.Index.API">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\StarMap\StarMap.Index.API.dll</HintPath>
+    </Reference>
+    <Reference Include="StarMap.Types">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\StarMap\StarMap.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="StarMapLoader">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\StarMap\StarMapLoader.dll</HintPath>
     </Reference>
   </ItemGroup>
 

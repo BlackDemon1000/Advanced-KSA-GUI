@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Advanced-KSA-GUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddefba006ca69ecfb6f5e5622fe4e8548927793b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2fad223378c0d77acdd778ac0459461a85441d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Advanced-KSA-GUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Advanced-KSA-GUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

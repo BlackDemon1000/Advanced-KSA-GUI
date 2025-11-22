@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CB110\\Robotik\\Advanced-KSA-GUI\\Advanced-KSA-GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{522A9CFA-B5E9-4DA0-B1CA-A4A46B67ED75}|Advanced-KSA-GUI\\Advanced-KSA-GUI.csproj|c:\\users\\cb110\\robotik\\advanced-ksa-gui\\advanced-ksa-gui\\advanced-ksa-gui\\guimodmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522A9CFA-B5E9-4DA0-B1CA-A4A46B67ED75}|Advanced-KSA-GUI\\Advanced-KSA-GUI.csproj|solutionrelative:advanced-ksa-gui\\guimodmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GuiModMain.cs",
+              "DocumentMoniker": "C:\\Users\\CB110\\Robotik\\Advanced-KSA-GUI\\Advanced-KSA-GUI\\Advanced-KSA-GUI\\GuiModMain.cs",
+              "RelativeDocumentMoniker": "Advanced-KSA-GUI\\GuiModMain.cs",
+              "ToolTip": "C:\\Users\\CB110\\Robotik\\Advanced-KSA-GUI\\Advanced-KSA-GUI\\Advanced-KSA-GUI\\GuiModMain.cs",
+              "RelativeToolTip": "Advanced-KSA-GUI\\GuiModMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T09:55:31.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

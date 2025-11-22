@@ -7,4 +7,97 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Brutal.Core.Collections">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Core.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.Core.Common">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Core.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.Core.Logging">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Core.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.Core.Maths">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Core.Maths.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.Core.Memory">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Core.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.Core.Numerics">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Core.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.Core.Package">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Core.Package.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.Core.Strings">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Core.Strings.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.Fmod">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Fmod.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.Framework">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.Glfw">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Glfw.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.Gli">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Gli.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.Gli.Texture">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Gli.Texture.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.GltfApi">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.GltfApi.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.ImGui">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.ImGui.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.ImGui.Abstractions">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.ImGui.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.ImGui.Extensions">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.ImGui.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.Ktx">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Ktx.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.Ktx.Texture">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Ktx.Texture.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.Native">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Native.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.OpenGl">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.OpenGl.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.RakNet">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.RakNet.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.ShaderCompiler">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.ShaderCompiler.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.Stb">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Stb.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.Stb.Texture">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Stb.Texture.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.Texture">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Texture.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.Texture.Abstractions">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Texture.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.Vulkan">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Vulkan.dll</HintPath>
+    </Reference>
+    <Reference Include="Brutal.Vulkan.Abstractions">
+      <HintPath>..\..\..\..\..\..\Program Files\Kitten Space Agency\Brutal.Vulkan.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="StarMap">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\StarMap\StarMap.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
